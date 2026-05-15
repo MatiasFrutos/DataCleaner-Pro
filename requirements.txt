@@ -1,0 +1,6 @@
+pandas
+openpyxl
+customtkinter
+python-dateutil
+xlrd
+pytest
